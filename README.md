@@ -46,6 +46,4 @@ Certainly! Here are the updated instructions for the README with code prompts:
 
 6. **View the Prediction Error Graph**: Once the prediction process is completed, locate the generated Turtle application to view the prediction error graph. The graph will depict the performance of the model in predicting the rented bike count.
 
----
-
 Make sure to follow these instructions step by step to successfully run the project and visualize the prediction error graph.
